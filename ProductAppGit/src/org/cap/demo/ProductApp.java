@@ -9,7 +9,7 @@ public class ProductApp {
 
 		System.out.println("Data: ");
 		for (int i=0; i<arr.length;i++){
-			
+			System.out.println("Array value: "+arr[i]);
 		}
 	}
 
