@@ -11,11 +11,11 @@ public class Main {
 	}
 	
 	public static void greetings(){
-		System.out.println("Hii Welcome!!");
+		System.out.println("HAPPY TO SEE YOU!!");
 		
-		System.out.println("Testing!!");
+		System.out.println("TESTING!!");
 		
-		System.out.println("Testing 2");
+		System.out.println("TESTING 2");
 	}
 
 }
