@@ -12,6 +12,8 @@ public class Main {
 	
 	public static void greetings(){
 		System.out.println("Hii Welcome!!");
+		
+		System.out.println("Testing!!");
 	}
 
 }
