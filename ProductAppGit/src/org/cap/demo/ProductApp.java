@@ -7,10 +7,13 @@ public class ProductApp {
 	public void productDisplay() {
 		//System.out.println("productDisplay..");
 
+		int sum = 0;
 		System.out.println("Data: ");
-		for (int i=0; i<arr.length;i++){
-			System.out.println("Array value: "+arr[i]);
+		for (int i:arr){
+			System.out.println("Array value: "+i);
+			sum = sum +i;
 		}
+		System.out.println("Sum: "+sum);
 	}
 
 }
